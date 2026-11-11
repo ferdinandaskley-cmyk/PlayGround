@@ -1,0 +1,76 @@
+{
+  "cell": {
+    "w": 64,
+    "h": 80
+  },
+  "columns": 8,
+  "anims": {
+    "idle": {
+      "row": 0,
+      "frames": 4,
+      "fps": 5
+    },
+    "walk": {
+      "row": 1,
+      "frames": 6,
+      "fps": 10
+    },
+    "run": {
+      "row": 2,
+      "frames": 6,
+      "fps": 14
+    },
+    "jump": {
+      "row": 3,
+      "frames": 2,
+      "fps": 2
+    },
+    "punch": {
+      "row": 4,
+      "frames": 4,
+      "fps": 18
+    },
+    "kick": {
+      "row": 5,
+      "frames": 4,
+      "fps": 16
+    },
+    "special": {
+      "row": 6,
+      "frames": 6,
+      "fps": 12
+    },
+    "ultimate": {
+      "row": 7,
+      "frames": 8,
+      "fps": 10
+    },
+    "hurt": {
+      "row": 8,
+      "frames": 2,
+      "fps": 14
+    },
+    "knockdown": {
+      "row": 9,
+      "frames": 3,
+      "fps": 8
+    },
+    "victory": {
+      "row": 10,
+      "frames": 4,
+      "fps": 6
+    }
+  },
+  "sheets": {
+    "DENJI": "assets/sprites/denji.png",
+    "POWER": "assets/sprites/power.png",
+    "AKI": "assets/sprites/aki.png",
+    "MAKIMA": "assets/sprites/makima.png",
+    "KOBENI": "assets/sprites/kobeni.png",
+    "HIMENO": "assets/sprites/himeno.png",
+    "BEAM": "assets/sprites/beam.png",
+    "REZE": "assets/sprites/reze.png",
+    "KATANA": "assets/sprites/katana.png",
+    "QUANXI": "assets/sprites/quanxi.png"
+  }
+}
